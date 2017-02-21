@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sipo.rumusbidangdatar" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PersegiActivity"
+            android:label="@string/title_activity_persegi" >
+        </activity>
+        <activity
+            android:name=".PersegipanjangActivity"
+            android:label="@string/title_activity_persegipanjang" >
+        </activity>
+        <activity
+            android:name=".SegitigaActivity"
+            android:label="@string/title_activity_segitiga" >
+        </activity>
+        <activity
+            android:name=".JajargenjangActivity"
+            android:label="@string/title_activity_jajargenjang" >
+        </activity>
+        <activity
+            android:name=".TrapesiumActivity"
+            android:label="@string/title_activity_trapesium" >
+        </activity>
+        <activity
+            android:name=".LayanglayangActivity"
+            android:label="@string/title_activity_layanglayang" >
+        </activity>
+        <activity
+            android:name=".BelahketupatActivity"
+            android:label="@string/title_activity_belahketupat" >
+        </activity>
+        <activity
+            android:name=".LingkaranActivity"
+            android:label="@string/title_activity_lingkaran" >
+        </activity>
+    </application>
+
+</manifest>

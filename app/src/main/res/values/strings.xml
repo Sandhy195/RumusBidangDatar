@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rumus Bangun Datar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_persegi">Persegi</string>
+    <string name="title_activity_persegipanjang">Persegi Panjang</string>
+    <string name="title_activity_segitiga">Segitiga</string>
+    <string name="title_activity_jajargenjang">Jajar Genjang</string>
+    <string name="title_activity_trapesium">Trapesium</string>
+    <string name="title_activity_layanglayang">Layang-layang</string>
+    <string name="title_activity_belahketupat">Belah Ketupat</string>
+    <string name="title_activity_lingkaran">Lingkaran</string>
+
+</resources>
